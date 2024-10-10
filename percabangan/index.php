@@ -5,7 +5,7 @@
 </head>
  
 <body>
-    <h1>identifikasi pengguna(login)</h1><br><br>
+    <h1>identifikasi pengguna (login)</h1><br><br>
     <form method="GET" action ="input.php">
         nama:
         <input type="text" name="nama"><br /><br>
