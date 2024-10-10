@@ -49,7 +49,7 @@
         <label for="waktu_lambat">Waktu (jam):</label>
         <input type="number" id="waktu_lambat" name="waktu_lambat" required>
 
-        <input type="submit" value="Hitung Kecepatan">
+        <input type="submit" value= "Hitung Kecepatan">
     </form>
 
     <?php
